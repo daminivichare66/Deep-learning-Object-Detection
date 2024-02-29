@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/DL-ASSG4/new/train/images
+val: /content/drive/MyDrive/DL-ASSG4/new/valid/images
+test: /content/drive/MyDrive/DL-ASSG4/new/test/images
+
+names: 
+  0: Bat
+  1: Butterfly
+  2: Squid
+
